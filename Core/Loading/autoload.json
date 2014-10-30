@@ -1,0 +1,6 @@
+{
+	"directories": [],
+	"PSR-4": {
+		"Library\\": "/Core"
+	}
+}
