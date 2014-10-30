@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html <?php language_attributes(); ?> >
 	<head>
-		<title><?php echo get_title(); ?></title>
+		<title><?php echo \library\Title::get(); ?></title>
 
 		<!-- Meta Tags -->
 		<meta charset="UTF-8">
